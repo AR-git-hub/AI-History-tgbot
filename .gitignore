@@ -1,0 +1,35 @@
+# === Secrets ===
+.env
+
+# === Python virtual environments ===
+venv/
+.venv/
+env/
+ENV/
+
+# === Python cache ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.idea
+# === Logs ===
+*.log
+quiz_history.json
+
+# === OS files ===
+.DS_Store
+Thumbs.db
+
+# === Images ===
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.webp
+*.tiff
+
+# === Downloads / uploads (если используешь папку) ===
+downloads/
+uploads/
